@@ -1,0 +1,4 @@
+stress:
+  build: .
+  volumes:
+    - data:/go/data
